@@ -17,7 +17,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Chen chao <chenchao@99114.com>",
+  "author": "",
   "license": "private",
   "dependencies": {
     "commander": "^2.19.0",
