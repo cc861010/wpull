@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run --rm -v /tmp:/tmp wpull $@
+docker run --rm -v /tmp:/tmp cc861010/wpull $@
