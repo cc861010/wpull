@@ -1,0 +1,26 @@
+{
+  "name": "wpull",
+  "version": "0.0.1",
+  "description": "get a single web page",
+  "main": "index.js",
+  "bin": "index.js",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@192.168.1.40:cc/wpull.git"
+  },
+  "keywords": [
+    "crawler,wget,wpull"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chen chao <chenchao@99114.com>",
+  "license": "private",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "puppeteer": "1.11.0"
+  }
+}
